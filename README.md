@@ -15,7 +15,7 @@ The 'Simulation' Folder contains a synthetic data demo for the proposed TL-FLR.
 
 ## Real Data Application
 
-### Application on Finantial Dataset
+### Stock Price Dataset
 
 The stock price data are collected from [Yahoo Finance](https://finance.yahoo.com/), and we focus on stocks whose corresponding companies have a market cap over $20$ Billion with period from 4/1/2021 to 9/30/2021. We divide the sectors based on the division criteria on [Nasdaq](https://www.nasdaq.com/market-activity/stocks/screener). 
 
