@@ -1,6 +1,6 @@
 # HTL-FLM
 
-Code for Paper [On Hypothesis Transfer Learning in Functional Linear Models](https://arxiv.org/abs/2206.04277) (Accepted to ICML 2024).
+Code for Paper [On Hypothesis Transfer Learning in Functional Linear Models](https://arxiv.org/abs/2206.04277) (ICML 2024).
 
 
 
