@@ -33,12 +33,12 @@ The dataset is available at [https://archive.ics.uci.edu/dataset/240/human+activ
 
 ## Citation
 ```
-@misc{lin2024hypothesis,
-      title={On Hypothesis Transfer Learning of Functional Linear Models}, 
-      author={Haotian Lin and Matthew Reimherr},
-      year={2024},
-      eprint={2206.04277},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
+@inproceedings{lin2024hypothesis,
+  title={On Hypothesis Transfer Learning of Functional Linear Models},
+  author={Lin, Haotian and Reimherr, Matthew},
+  booktitle={International Conference on Machine Learning},
+  pages={30252--30285},
+  year={2024},
+  organization={PMLR}
 }
 ```
